@@ -16,3 +16,13 @@ Quests can vary greatly, but most will have you either going somewhere and colle
 Every level is linked in with eachother, so there's multiple ways to enter each level.
 
 MECHANICS
+Garry-Chan gets real (i'll shorten it to GarryReal from now) Is a speedy game, there is in fact no speed limit. That doesn't mean it's uncontrollable though, there's currently two movement options that give you more control:
+The Dash is a redirect of direction, that direction is decided by which direction you're aiming, contrary to normal movement which is omnidirectional.
+The slash is a quick boost of speed, the direction in which that speed is given works the same as the dash.
+Then there's of course the normal movement, walking, which has a max speed of about 20 and sprinting which has no max speed but is hard to control with slow acceleration and decelleration.
+
+Besides movement there's of course the game systems, dialogue, collecting, quests and boss battles. Handled here one by one
+Dialogue works just like in visual novels; A textbox at the bottom of the screen with a character portrait and an occasional choise the player can make. Dialogue has to be voiced and to stay in line with the rest of the game can't be too long (also easier for voice acting and file size)
+Collecting is pretty simple, you trigger a condition, that be completing a quest, opening a chest or defeating a boss. An animation and a voice line plays.
+How quests work is still to be decided
+Boss Battles HAVE to be COOL!!! There is no combat, so it's more like a platforming gauntlet or time based thing
